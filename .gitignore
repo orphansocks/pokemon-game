@@ -1,4 +1,10 @@
 .idea
 out
+/node_modules
+/dist
+*.local
+*.log
 backend-java-pokemon-interface.iml
 5backend-java-pokemon-interface.iml
+.src/Methodes
+.src/Variabelen
